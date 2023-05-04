@@ -7,6 +7,7 @@ So, one of the best-known PSN content download sites was shut down. But not ever
 ## Installation
 
 Installation is very simple, I don't use setups, I think it's a waste of time. So to download just download by zip.
+The .exe is located in PSNDLdb\bin\Debug.
 
 
 ![Download Image](https://i.imgur.com/qcTBY5Y.jpeg)
